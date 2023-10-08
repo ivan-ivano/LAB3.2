@@ -7,7 +7,7 @@ a = int(input())
 b = int(input())
 c = int(input())
 x = int(input())
-F = ''
+F = 0
 
 # Спосіб 1: розгалуження в скороченій формі
 
