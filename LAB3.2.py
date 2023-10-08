@@ -8,6 +8,7 @@ b = int(input())
 c = int(input())
 x = int(input())
 F = ''
+
 # Спосіб 1: розгалуження в скороченій формі
 
 if c < 0 and b != 0:
